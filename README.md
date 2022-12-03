@@ -4,7 +4,7 @@ I am 24 years I love coding and I have over 1 year of front-end/full-stack exper
  - To develop in.
  - To contribute with my skills .
  - To become a better web developer. 
- ## If you're a recruiter please read this for easier life with examining my abilites  :)
+ ## If you're a recruiter please read this for easier life with examining my abilites 
  - My Latest project I would suggest you to check is Infinite Crypto : https://github.com/markfishman1/Infinite-Crypto
  - The second project I would love you to check is Patefon : https://patefon.onrender.com/#/
   ```
