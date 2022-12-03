@@ -12,5 +12,5 @@ Linkeding Profile: https://www.linkedin.com/in/mark-fishman-631998217/
   ```
   This two projects are proper Fullstack Web Applications. which really gives an indication about my skills.
   ```
-  -I also have some static pages projects that I've made to customers as a landing pages such as : https://walldoor.onrender.com/
+  I also have some static pages projects that I've made to customers as a landing pages such as : https://walldoor.onrender.com/
   
