@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mark Fishman 
 I am 24 years old I am very friendly ,hard worker,code lover and I have over 1 year of front-end/full-stack experience.
-Linkeding Profile: https://www.linkedin.com/in/mark-fishman-631998217/
+- Linkedin Profile: https://www.linkedin.com/in/mark-fishman-631998217/
 
  ## I'm currently looking for a Frontend/Full-Stack job
  - To develop in.
